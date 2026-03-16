@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kerr-descent-engine"
+version = "0.1.0"
+description = "A modular physics engine for exploring interior trajectories in Kerr black holes using simplified ODIM-style descent dynamics."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "David E. Blackwell", email = "david@hillbillystormchasers.org" }
+]
+
+dependencies = [
+    "numpy>=1.26"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
