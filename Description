@@ -1,1 +1,13 @@
+This engine provides:
 
+A clean modular structure
+
+A pluggable descent function (descent.py)
+
+Basic Kerr geometry components (geometry.py)
+
+Step-by-step diagnostics (metrics.py)
+
+A simple but stable numerical evolution loop (engine.py)
+
+It is designed to be extended into deeper ODIM/QSTF physics.
