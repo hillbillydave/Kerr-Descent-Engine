@@ -1,0 +1,44 @@
+PIPELINE 7.1 – LET THE MATH DECIDE – INFALLER RIDES TO THE CORE
+=====================================================================
+
+Observer falls with constant proper time — no local dilation felt.
+Simulation continues smoothly toward r=0 — math decides core structure.
+
+Pre-throat transitions:
+[PRE] Step 519: I to II
+[PRE] Step 535: II to III
+
+Post-throat & core decisions:
+
+A:
+[A] Step 536: III to OS
+
+B:
+[B] Step 536: III to OS
+
+C:
+[C] Step 536: III to OS
+
+Region-time statistics:
+
+Mode A:
+  OS: 120000
+  IV: 0
+  III: 1
+  II: 0
+  I: 0
+
+Mode B:
+  OS: 120000
+  IV: 0
+  III: 1
+  II: 0
+  I: 0
+
+Mode C:
+  OS: 120000
+  IV: 0
+  III: 1
+  II: 0
+  I: 0
+
